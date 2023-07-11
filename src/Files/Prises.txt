@@ -1,0 +1,8 @@
+152;Ball;1360
+400;BMW;1457
+200;Table;1252
+78;Katana;658
+112;Machine;758
+200;Table;918
+400;BMW;1157
+112;Machine;1215
